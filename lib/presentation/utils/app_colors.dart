@@ -10,4 +10,5 @@ class AppColor
   static const buttonGroundColor = Color(0xff1D60AE);
   static const viewTextColor = Color(0xff6791FF);
   static const dilougeBackGroundColor = Color(0xffDDECFC);
+  static const appbarBackGroundColor = Color(0xffEEEEEE);
 }
